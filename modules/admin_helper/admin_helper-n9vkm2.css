@@ -1,0 +1,25 @@
+.block-admin-helper .content {
+  padding: 10px;	
+  padding-left: 0px;
+}
+.admin-helper-video {
+  float: left;
+  width: 39%;  
+  background: #d6d6d6;
+  padding: 10px;  
+}
+.admin-helper-news {
+  float: right;
+   padding: 15px;
+    width: 50%;
+}
+
+.admin-helper-video a {
+  background: url("video.png") no-repeat scroll left center transparent;
+  display: block;
+  font-weight: bold;
+  height: 50px;
+  line-height: 50px;
+  padding-left: 70px;
+  vertical-align: middle;
+}
